@@ -4,7 +4,7 @@ ElevenTools è un'applicazione avanzata per rilevare la presenza di executor Rob
 
 ## Caratteristiche
 
-- **Database completo**: Rileva oltre 30 executor Roblox noti
+- **Database completo**: Rileva oltre 50 executor Roblox noti
 - **Scansione multi-livello**: Controlla file, processi in esecuzione e voci di registro
 - **Interfaccia grafica intuitiva**: Facile da usare con risultati chiari
 - **Sistema di logging**: Registra tutte le attività per riferimento futuro
@@ -63,7 +63,7 @@ Se riscontri problemi durante l'esecuzione:
 
 ## Miglioramenti recenti
 
-- Database di executor ampliato a oltre 30 programmi noti
+- Database di executor ampliato a oltre 50 programmi noti
 - Migliorata l'affidabilità della scansione dei file
 - Aggiunto il rilevamento dei processi in esecuzione
 - Implementata la scansione del registro di sistema
